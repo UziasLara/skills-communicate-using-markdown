@@ -23,6 +23,7 @@ I will also attempt to link every completed challenge to its respective solution
   - [Part 3: Advanced Features](#part-3-advanced-features-) ⚔️
   - [Part 4: The Endgame](#part-4-the-endgame-) 👑
   - [Part 5: Bonus Levels](#part-5-bonus-levels-) 🌟
+    
 </details>
 
 ## Part 1: The Basics 🛡️
