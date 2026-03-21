@@ -18,15 +18,15 @@ I will also attempt to link every completed challenge to its respective solution
 <details>
   <summary><b> Quest Log 🗺️ </b></summary>
 
-  - [Part 1: The Basics](#part-1-the-basics-) 🛡️
-  - [Part 2: Object-Oriented Programming](#part-2-object-oriented-programming-) 🏰
-  - [Part 3: Advanced Features](#part-3-advanced-features-) ⚔️
-  - [Part 4: The Endgame](#part-4-the-endgame-) 👑
+  - [Part 1: The Basics](#part-1-the-basics-) 🔰
+  - [Part 2: Object-Oriented Programming](#part-2-object-oriented-programming-) 🌳
+  - [Part 3: Advanced Features](#part-3-advanced-features-) 🌊
+  - [Part 4: The Endgame](#part-4-the-endgame-) 🏹
   - [Part 5: Bonus Levels](#part-5-bonus-levels-) 🌟
     
 </details>
 
-## Part 1: The Basics 🛡️
+## Part 1: The Basics 🔰
 
 #### Level 1 - The C# Programming Language
 - [ ] Knowledge Check: C# `+25 XP`
@@ -85,7 +85,7 @@ I will also attempt to link every completed challenge to its respective solution
 
 ---
 
-## Part 2: Object-Oriented Programming 🏰
+## Part 2: Object-Oriented Programming 🌳
 
 #### Level 15 - Object-Oriented Concepts
 - [ ] Knowledge Check: Objects `+25 XP`
@@ -154,7 +154,7 @@ I will also attempt to link every completed challenge to its respective solution
 
 ---
 
-## Part 3: Advanced Features ⚔️ 
+## Part 3: Advanced Features 🌊
 
 #### Level 33 - Managing Larger Programs
 - [ ] Knowledge Check: Large Programs `+25 XP`
@@ -229,7 +229,7 @@ I will also attempt to link every completed challenge to its respective solution
 
 ---
 
-## Part 4: The Endgame 👑
+## Part 4: The Endgame 🏹
 
 #### Level 52 - The Final Battle
 - [ ] Core Game: Building Character `+300 XP`
