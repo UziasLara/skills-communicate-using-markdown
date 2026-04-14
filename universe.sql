@@ -391,19 +391,19 @@ ALTER TABLE ONLY public.comet
 
 
 --
--- Name: comet comets_description_key; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
+-- Name: comet comet_description_key; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
 --
 
 ALTER TABLE ONLY public.comet
-    ADD CONSTRAINT comets_description_key UNIQUE (description);
+    ADD CONSTRAINT comet_description_key UNIQUE (description);
 
 
 --
--- Name: comet comets_name_key; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
+-- Name: comet comet_name_key; Type: CONSTRAINT; Schema: public; Owner: freecodecamp
 --
 
 ALTER TABLE ONLY public.comet
-    ADD CONSTRAINT comets_name_key UNIQUE (name);
+    ADD CONSTRAINT comet_name_key UNIQUE (name);
 
 
 --
@@ -513,4 +513,3 @@ ALTER TABLE ONLY public.star
 --
 -- PostgreSQL database dump complete
 --
-
